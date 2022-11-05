@@ -2,5 +2,7 @@ public class demo1{
 
 public static void main(String args[]){
 sysstem.out.println("good morning")
+sysstem.out.println("good morning")
+
 }
 }

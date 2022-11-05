@@ -1,0 +1,6 @@
+public class demo3{
+
+public static void main(String args[]){
+sysstem.out.println("i want to become java developer")
+}
+}
